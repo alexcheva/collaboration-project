@@ -3,3 +3,12 @@
   #alex h2{
     ...
   } */
+  #alex{
+    background-color: palegreen;
+    /* border-color: peru;
+    border-width: 2px; */
+    color: #343a40;
+  }
+  #alex h2{
+    color: peru;
+  }
