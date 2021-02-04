@@ -5,6 +5,12 @@
     --body: font-family: 'Quattrocento', serif;
 }
 
-.mandy h1, .mandy h2, .mandy h3 {
-    font-family: var(--display);
+.mandy {
+    var(--body);
 }
+
+
+.mandy h1, .mandy h2, .mandy h3 {
+    var(--display);
+}
+
