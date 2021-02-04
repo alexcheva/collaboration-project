@@ -3,6 +3,7 @@
   #alex h2{
     ...
   } */
+
   #alex{
     background-color: palegreen;
     /* border-color: peru;
@@ -12,3 +13,19 @@
   #alex h2{
     color: peru;
   }
+  #meia {
+    background-color:lavenderblush;
+    
+  }
+  
+  #avery{
+    font-size: 12px;
+  }
+  #avery .card{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  #avery h2 {
+    font-size: 14px;
+  }
+
