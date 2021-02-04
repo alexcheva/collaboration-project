@@ -10,6 +10,13 @@
   }
   
   #avery{
-    font-size:10px;
+    font-size: 12px;
+  }
+  #avery .card{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  #avery h2 {
+    font-size: 14px;
   }
 
