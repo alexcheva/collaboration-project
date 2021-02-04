@@ -1,5 +1,31 @@
+
   /* PLEASE STYLE ONLY YOUR ID DIVS, so we don;t have conflics*/
   
   #adilene h2{
     color: paleturquoise;
+  }
+
+  #alex{
+    background-color: palegreen;
+    /* border-color: peru;
+    border-width: 2px; */
+    color: #343a40;
+  }
+  #alex h2{
+    color: peru;
+  }
+  #meia {
+    background-color:lavenderblush;
+    
+  }
+  
+  #avery{
+    font-size: 12px;
+  }
+  #avery .card{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  #avery h2 {
+    font-size: 14px;
   }
