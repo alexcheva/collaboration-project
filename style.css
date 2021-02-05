@@ -21,7 +21,6 @@
 
   #meia {
     background-color:lavenderblush;
-    
   }
   
   #avery{
@@ -35,60 +34,60 @@
     font-size: 14px;
   }
 
-#brie * {
-    box-sizing: border-box;
-}
+  #brie * {
+      box-sizing: border-box;
+  }
 
-#brie {
-    max-width: 100%;
-    margin: auto;
-    padding: 2em;
-    
-    border-radius: 1em 1em 1em;
-    
-    background-color: darkred;
-    box-shadow: .5em .5em .5em rgba(26, 26, 26, .5);
-}
+  #brie {
+      max-width: 100%;
+      margin: auto;
+      padding: 2em;
+      
+      border-radius: 1em 1em 1em;
+      
+      background-color: darkred;
+      box-shadow: .5em .5em .5em rgba(26, 26, 26, .5);
+  }
 
-#brie img {
-    display: block;
-    position: relative;
-    z-index: 0;
-    left: -25%;
-    max-width: 60%;
-    min-height: 45%;
-    margin: auto;
-    
-    clip-path: circle(50%);
-}
+  #brie img {
+      display: block;
+      position: relative;
+      z-index: 0;
+      left: -25%;
+      max-width: 60%;
+      min-height: 45%;
+      margin: auto;
+      
+      clip-path: circle(50%);
+  }
 
-#brie .headwrap {
-    display: block;
-    position: relative;
-    z-index: 1;
-    top: -3em;
-    left: 15%;
-    
-    color:bisque;
-    text-shadow: .25em .25em .25em rgba(26, 26, 26, .75);
-}
+  #brie .headwrap {
+      display: block;
+      position: relative;
+      z-index: 1;
+      top: -3em;
+      left: 15%;
+      
+      color:bisque;
+      text-shadow: .25em .25em .25em rgba(26, 26, 26, .75);
+  }
 
-#brie h3 {
-    font-size: 2.5em;
-    font-family: cursive;
-}
+  #brie h3 {
+      font-size: 2.5em;
+      font-family: cursive;
+  }
 
-#brie p {
-    display: block;
-    position: relative;
-    top: -15%;
-    max-width: 80%;
-    margin: auto;
-    padding: 1.25em;
-    
-    border-radius: 2em 2em 2em;
-    background-color: rgba(26, 26, 26, .5);
-    
-    font-size: 1.125em;
-    color:floralwhite;
-}
+  #brie p {
+      display: block;
+      position: relative;
+      top: -15%;
+      max-width: 80%;
+      margin: auto;
+      padding: 1.25em;
+      
+      border-radius: 2em 2em 2em;
+      background-color: rgba(26, 26, 26, .5);
+      
+      font-size: 1.125em;
+      color:floralwhite;
+  }
