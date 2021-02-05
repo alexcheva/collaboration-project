@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@500&family=Quattrocento&display=swap');
+
+:root {
+    --display: font-family: 'Bodoni Moda', serif;
+    --body: font-family: 'Quattrocento', serif;
+}
+
+.mandy {
+    var(--body);
+}
+
+
+.mandy h1, .mandy h2, .mandy h3 {
+    var(--display);
+}
+
